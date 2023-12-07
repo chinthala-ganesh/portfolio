@@ -1,0 +1,36 @@
+img{
+    height:400px;
+    width:400;
+    }
+.my-container{
+  text-align: center;
+}
+.heading{
+    color: orange;
+    font-weight: bolder;
+}
+.paragraph{
+    color: blue;
+    font-family: calibri;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: blue;
+}
+.navbar-left{
+    padding-left: 20px;
+}
+.navbar-right{
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.a-element{
+    padding: 10px;
+    border: 2px solid red;
+    margin: 10px;
+}
